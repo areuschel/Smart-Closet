@@ -1,0 +1,18 @@
+# core python
+pandas
+numpy
+scikit-learn
+requests
+pyyaml
+
+# app
+streamlit
+apscheduler
+
+# db
+SQLAlchemy
+psycopg2-binary
+
+# misc
+joblib       # for saving/loading models
+python-dotenv  # for .env
